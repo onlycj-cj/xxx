@@ -1,0 +1,53 @@
+
+*{
+    padding:0px;
+    margin: 0px;
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(creater1.jpg);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.content{
+    width: 100%;
+    position: absolute;
+    top:80%;
+    transform: translateY(-50);
+    text-align: left;
+    color: aliceblue;
+    bottom: -10%;
+}
+
+.content h3{
+    font-size: 10px;
+    margin-right: 60%;
+    color: whitesmoke
+    
+    
+    
+
+}
+
+.shot_line {
+    margin: 30px,auto;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-weight: 100;
+    line-height: 10px;
+    color:aliceblue;
+    width: 100%;
+    position: absolute;
+    bottom: 50%;
+    top: 60%;
+    text-align: center;
+    
+    
+    
+    
+}
+
+
